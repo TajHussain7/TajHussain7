@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tajamal Hussain</h1>
-<h3 align="center">I am passionate in Software Engineer from Pakistan</h3>
+<h3 align="center">A passionate in Software Engineer from Pakistan</h3>
 
 <img align="right" alt="Software Engineer" width="300" src="https://media0.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
@@ -25,6 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tajhussain7&show_icons=true&locale=en" alt="tajhussain7" /></p>
 
-<br><br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tajhussain7&" alt="tajhussain7" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tajhussain7&" alt="tajhussain7" /></p>
