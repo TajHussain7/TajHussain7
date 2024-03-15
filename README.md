@@ -1,3 +1,5 @@
+![logo](https://github.com/TajHussain7/TajHussain7/blob/main/GitHub%20banner.png)
+
 <h1 align="center">Hi 👋, I'm Tajamal Hussain</h1>
 <h3 align="center">A passionate in Software Engineer from Pakistan</h3>
 
